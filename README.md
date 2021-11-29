@@ -2,7 +2,9 @@
 description: https://mythicmobs.net/manual/doku.php/start - оригинальная документация
 ---
 
-# Page 1
+# Что такое MythicMobs?
+
+[https://mythicmobs.net/manual/doku.php/start](https://mythicmobs.net/manual/doku.php/start) - оригинальная документация
 
 {% embed url="https://youtu.be/_YQUS3sDbI0" %}
 
