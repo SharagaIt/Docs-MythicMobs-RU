@@ -4,14 +4,6 @@ description: https://mythicmobs.net/manual/doku.php/start - оригинальн
 
 # Что такое MythicMobs?
 
-| Оглавление                                          |
-| --------------------------------------------------- |
-| [Что такое MythicMobs?](./)                         |
-| [Настройка](./#nastroika)                           |
-| [Помощь и вопросы](./#pomosh-i-voprosy)             |
-| [Конструкции разработки](./#konstrukcii-razrabotki) |
-| [Особая благодарность](./#osobaya-blagodarnost)     |
-
 [https://mythicmobs.net/manual/doku.php/start](https://mythicmobs.net/manual/doku.php/start) - оригинальная документация
 
 {% embed url="https://youtu.be/_YQUS3sDbI0" %}
